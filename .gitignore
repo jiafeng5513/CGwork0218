@@ -1,0 +1,12 @@
+
+Debug
+*.suo
+*.sdf
+.vs
+.vs/CGwork0218
+.vs/CGwork0218/v15
+*.db
+*.opendb
+ipch
+ipch/cgwork0218-fcd2fd81
+*.ipch
