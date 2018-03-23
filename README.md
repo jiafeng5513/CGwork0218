@@ -10,3 +10,9 @@
 2.VS2017
 
 ### 效果图
+![image](https://github.com/AngelaViVi/CGwork0218/blob/master/docs/img%20(1).png) 
+![image](https://github.com/AngelaViVi/CGwork0218/blob/master/docs/img%20(2).png) 
+![image](https://github.com/AngelaViVi/CGwork0218/blob/master/docs/img%20(3).png) 
+![image](https://github.com/AngelaViVi/CGwork0218/blob/master/docs/img%20(4).png) 
+![image](https://github.com/AngelaViVi/CGwork0218/blob/master/docs/img%20(5).png) 
+![image](https://github.com/AngelaViVi/CGwork0218/blob/master/docs/img%20(6).png) 
